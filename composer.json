@@ -1,6 +1,6 @@
 {
     "name": "codeportal/php-url-shortner",
-    "description": "Url Shortener for Laravel",
+    "description": "Url Shortener for Laravel. We're using cdpt.in platform to shorten your URLs. As this is open source, you don't need any kind of API key to shorten your URL.",
     "keywords": [
         "codeportal",
         "laravel",
