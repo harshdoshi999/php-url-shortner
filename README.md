@@ -12,8 +12,6 @@ composer require codeportal/php-url-shortner
 
 ## Usage
 
-#### Development (Local)
-
 ```bash
 use CodePortal\UrlShortener\UrlShortener;
 $result = UrlShortener::shorten('http://codeportal.in');
