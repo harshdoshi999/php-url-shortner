@@ -1,0 +1,36 @@
+{
+    "name": "codeportal/php-url-shortner",
+    "description": "Url Shortener for Laravel",
+    "keywords": [
+        "codeportal",
+        "laravel",
+        "url",
+        "shortener",
+        "url short",
+        "url shortener"
+    ],
+    "homepage": "https://cdpt.in",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Harsh Doshi",
+            "email": "harshdoshi999@gmail.com",
+            "homepage": "https://harshdoshi.in",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "illuminate/support": "5.1.x|5.2.x|5.3.*|5.4.*|5.5.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "CodePortal\\UrlShortener\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "CodePortal\\UrlShortener\\Test\\": "tests"
+        }
+    },
+    "minimum-stability": "dev"
+}
